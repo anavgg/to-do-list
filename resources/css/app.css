@@ -1,0 +1,52 @@
+body {
+    background: radial-gradient(circle, #79355d, #552368);
+  }
+  
+  .container {
+    font-family: 'VT323', monospace;
+    color: #E8D7FF;
+    text-shadow: 1px 1px 2px #6E0C3F;
+  }
+  
+  .form-control {
+    background-color: #6E0C3F;
+    color: #E8D7FF;
+    border-color: #552368;
+  }
+  
+  .form-control:focus {
+    border-color: #79355d;
+  }
+  
+  .btn-primary {
+    background-color: #FF8906;
+    color: #E8D7FF;
+    border-color: #FF8906;
+  }
+  
+  .btn-primary:hover {
+    background-color: #FFBB00;
+    color: #E8D7FF;
+    border-color: #FFBB00;
+  }
+  
+  .table {
+    background-color: #E8D7FF;
+  }
+  
+  .table th {
+    color: #6E0C3F;
+  }
+  
+  .btn-danger {
+    background-color: #FF3333;
+    color: #E8D7FF;
+    border-color: #FF3333;
+  }
+  
+  .btn-danger:hover {
+    background-color: #E60000;
+    color: #E8D7FF;
+    border-color: #E60000;
+  }
+  
