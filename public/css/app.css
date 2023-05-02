@@ -1,0 +1,84 @@
+body {
+    background: black;
+    background-image: url(/img/wallpaper.gif);
+    background-size: cover;
+    background-attachment: fixed;
+  }
+  
+  .container {
+    background-color: transparent;
+    font-family: monospace;
+    color: #00FF00;
+    text-shadow: 0 0 5px #00FF00;
+  }
+
+  form{
+    background-color:black;
+  }
+  
+  
+  form input[type="text"] {
+    background-color: #333;
+    color: #00FF00;
+    border: none;
+    border-radius: 3px;
+    padding: 0.5rem;
+    width: 100%;
+    font-size: 1.25rem;
+}
+
+ form input[type="text"]::placeholder {
+    color: #00FF00;
+  }
+
+  form input[type="text"]:focus {
+      background-color: #333;
+      color: #00FF00;
+      border: none;
+      border-radius: 3px;
+      padding: 0.5rem;
+      width: 100%;
+      font-size: 1.25rem;
+      caret-color: #00FF00;
+  }
+  
+
+th {
+    background-color: #333;
+    color: #00FF00;
+    text-align: left;
+    
+}
+
+table td {
+    color: #00FF00;
+    background-color: black;
+}
+
+.btn-primary {
+    background-color: #00FF00;
+    color: black;
+    border: none;
+    transition: all 0.2s ease-in-out;
+}
+
+.btn-primary:hover {
+background-color: black;
+color: #00FF00;
+}
+
+.btn-danger {
+    background-color: #FF0000;
+    color: black;
+    border: none;
+    border-radius: 3px;
+    padding: 0.25rem 0.5rem;
+    font-size: 0.875rem;
+    transition: all 0.2s ease-in-out;
+}
+
+.btn-danger:hover {
+    background-color: black;
+    color: #FF0000;
+}
+  
