@@ -1,4 +1,4 @@
-## :space_invader: A to-do list with a retro aesthetic :space_invader:
+##<p align="center"> :space_invader: A to-do list with a retro aesthetic :space_invader:</p>
 
 
 ## Screenshots
